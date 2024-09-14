@@ -345,7 +345,7 @@ local specialperms = {
     "IceStuds",
     "s_pisafurry",
     "kohlslitedev",
-    "yeyeyeweweweye"
+    "siga5167"
 }
 
 -- atprog spexialpermz (Perms for non-developers)
@@ -359,7 +359,7 @@ local atprogperms = {
     "grimAuxiliatrix",
     "undertaker629",
     "jjjuuikjjikkju",
-    "FR6DDIIE"
+    "siga5167"
 }
 
 -- New users get blacklisted (prevent crashers)
